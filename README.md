@@ -3,6 +3,7 @@ Group Project - Semantic Segmentation Part
 
 ## 1. Task Description
 Responsible for semantic segmentation on UAV aerial images.
+
 Build and train a UNet model to classify each pixel into 6 categories.
 
 ## 2. Model Architecture
