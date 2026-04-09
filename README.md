@@ -46,7 +46,8 @@ batch_size = 2
 - mIoU: 0.6455
 
 ## 7. Result Show
-![result](https://github.com/user-attachments/assets/6ad07e61-e420-473a-ba12-07df45a9f3d)
+<img width="693" height="232" alt="image" src="https://github.com/user-attachments/assets/d95d5ad6-c55e-4d5f-bf53-c049cfefe8f9" />
+
 
 ## 8. How to Run
 Prepare dataset images and masks
