@@ -120,15 +120,12 @@ plt.subplot(133); plt.imshow(pred)
 plt.show()
 ```
 ## 7. Hyperparameter Tuning Results
-Group	LR	Optimizer	Final Loss	Accuracy	mIoU
-```
-1	  1e-5	ORIGIN	0.5445	0.9421	0.6512
-```
-2	  1e-5	Adam	0.3827	0.9426	0.6455
-```
-3	  5e-5	Adam	0.2110	0.9291	0.6355
-```
-4	  1e-5	AdamW	0.3631	0.9382	0.6377
+| Group | LR | Optimizer | Final Loss | Accuracy | mIoU |
+|-------|----|-----------|------------|----------|------|
+| 1 | 1e-5 | ORIGIN | 0.5445 | 0.9421 | 0.6512 |
+| 2 | 1e-5 | Adam | 0.3827 | 0.9426 | 0.6455 |
+| 3 | 5e-5 | Adam | 0.2110 | 0.9291 | 0.6355 |
+| 4 | 1e-5 | AdamW | 0.3631 | 0.9382 | 0.6377 |
 ## 8. Final Result
 Final Loss: 0.3827
 Accuracy: 0.9426
