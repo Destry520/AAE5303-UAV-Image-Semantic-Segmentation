@@ -18,12 +18,12 @@ Build and train a UNet model to classify each pixel into 6 categories.
 - Number of classes: 6
 
 ## 4. Class Definitions
-0: Background
-1: Road
-2: Building
-3: Vegetation
-4: Tree
-5: Car
+-0: Background
+-1: Road
+-2: Building
+-3: Vegetation
+-4: Tree
+-5: Car
 
 ## 5. Environment
 - Python 3.x
