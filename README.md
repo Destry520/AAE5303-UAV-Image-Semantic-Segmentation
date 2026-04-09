@@ -133,7 +133,9 @@ plt.show()
 | 4 | 1e-5 | AdamW | 0.3631 | 0.9382 | 0.6377 |
 ## 8. Final Result
 Final Loss: 0.3827
+
 Accuracy: 0.9426
+
 mIoU: 0.6455
 ## 9. Result Show
 <img width="693" height="232" alt="image" src="https://github.com/user-attachments/assets/d95d5ad6-c55e-4d5f-bf53-c049cfefe8f9" />
