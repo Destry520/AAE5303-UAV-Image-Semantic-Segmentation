@@ -143,9 +143,13 @@ mIoU: 0.6455
 
 ## 10. How to Run
 Install required packages
+
 Prepare dataset
+
 Run training script
+
 Evaluate metrics
+
 Visualize results
 
 ## 11. Project Structure
