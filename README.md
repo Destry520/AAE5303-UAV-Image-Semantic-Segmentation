@@ -58,9 +58,13 @@ Visualize prediction results
 
 ## 9. Project Structure
 ├── train.py # training code
+
 ├── model.py # UNet model
+
 ├── final_model.pth # trained model
+
 ├── result.png # visualization
+
 └── README.md
 
 ## 10. Contributions
