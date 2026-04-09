@@ -45,8 +45,8 @@ for epoch in range(epochs):
 - Learning rate: 1e-5
 - Loss function: CrossEntropyLoss
 - Epoch: 10
-- 
-## 5. Hyperparameter Tuning Results
+
+ ## 5.Hyperparameter Tuning Results
 
 4 compared experiments are finished
 
