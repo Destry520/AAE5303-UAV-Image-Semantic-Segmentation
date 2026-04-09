@@ -163,11 +163,15 @@ Visualize results
 
 └── README.md
 
-## 12. Contributions
+## 12. Process
 Responsible for UAV image semantic segmentation
+
 Built and trained UNet model
+
 Completed hyperparameter tuning
+
 Evaluated model performance
+
 Visualized segmentation results
 
 ## 13. References
