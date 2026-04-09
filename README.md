@@ -160,6 +160,6 @@ Evaluated model performance
 Visualized segmentation results
 
 ## 13. References
-Semantic segmentation: https://github.com/milesial/Pytorch-UNet
-Carvana Image Masking Challenge：https://www.kaggle.com/c/carvana-image-masking-challenge/data
-Leaderboard: https://github.com/Qian9921/AAE5303_UNet_demo/tree/main/leaderboard
+Semantic segmentation: https://github.com/milesial/Pytorch-UNet```
+Carvana Image Masking Challenge：https://www.kaggle.com/c/carvana-image-masking-challenge/data```
+Leaderboard: https://github.com/Qian9921/AAE5303_UNet_demo/tree/main/leaderboard```
