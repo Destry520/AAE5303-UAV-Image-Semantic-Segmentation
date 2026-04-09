@@ -57,7 +57,11 @@ Evaluate metrics (Acc, mIoU)
 Visualize prediction results
 
 ## 9. Project Structure
-├── train.py # training code├── model.py # UNet model├── final_model.pth # trained model├── result.png # visualization└── README.md
+├── train.py # training code
+├── model.py # UNet model
+├── final_model.pth # trained model
+├── result.png # visualization
+└── README.md
 
 ## 10. Contributions
 - Responsible for the semantic segmentation module of the unmanned aerial vehicle images
