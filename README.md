@@ -141,6 +141,7 @@ mIoU: 0.6455
 ## 9. Result Show
 <img width="693" height="232" alt="image" src="https://github.com/user-attachments/assets/d95d5ad6-c55e-4d5f-bf53-c049cfefe8f9" />
 
+model：https://drive.google.com/file/d/1X3avdCtWcFU88NoLXf_5ypzGAPdUbjtu/view?usp=drive_link
 
 ## 10. How to Run
 Install required packages
